@@ -1,0 +1,323 @@
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.deps.json
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.json
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.dev.json
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfo.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.input.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.output.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorCoreGenerate.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.dll
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\user\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CopyComplete
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.deps.json
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.json
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.dev.json
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.dll
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csprojAssemblyReference.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CoreCompileInputs.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfoInputs.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfo.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.input.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.output.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorCoreGenerate.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cache
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cs
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\userPC\Desktop\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CopyComplete
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.deps.json
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.json
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.dev.json
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.dll
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.pdb
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.dll
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csprojAssemblyReference.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CoreCompileInputs.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfoInputs.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfo.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.input.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.output.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorCoreGenerate.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cache
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.dll
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.pdb
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CopyComplete
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Index.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Create.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Delete.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Details.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Edit.g.cshtml.cs
+D:\с#\ElectionWeb\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csprojAssemblyReference.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CoreCompileInputs.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfoInputs.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfo.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.dll
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.pdb
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.deps.json
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.json
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.dev.json
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.dll
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.pdb
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.dll
+D:\с#\проект12334\ElectionWeb\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.input.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.output.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorCoreGenerate.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Index.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cache
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CopyComplete
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Create.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Delete.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Details.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Edit.g.cshtml.cs
+D:\с#\проект12334\ElectionWeb\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.deps.json
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.json
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.runtimeconfig.dev.json
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.dll
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\bin\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csprojAssemblyReference.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CoreCompileInputs.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorAssemblyInfo.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfoInputs.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.AssemblyInfo.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.input.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.TagHelpers.output.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorCoreGenerate.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Addresses\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admins\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Bulletins\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Candidates\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cities\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\ControlCoupons\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Elections\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Nations\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Periods\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Regions\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Streets\Create.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Streets\Delete.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Streets\Details.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Streets\Edit.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Streets\Index.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cache
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.RazorTargetAssemblyInfo.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.Views.pdb
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.dll
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.pdb
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\ElectionWeb.csproj.CopyComplete
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Voting\TyForVoting.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Voting\voting.g.cshtml.cs
+C:\Users\horba\Desktop\1\Новая папка\ElectionWeb-master\ElectionWeb\obj\Debug\netcoreapp2.1\Razor\Views\Voting\Tour.g.cshtml.cs

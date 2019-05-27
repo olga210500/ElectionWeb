@@ -1,0 +1,30 @@
+﻿@model ElectionWeb.Period
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Period</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DatetimeStart)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DatetimeStart)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DatetimeEnd)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DatetimeEnd)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
